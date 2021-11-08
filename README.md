@@ -1,6 +1,7 @@
-## Hi there 👋
+# Hi, I'm Umut! 👋
 
-I'm Umut. I'm a software developer.I really enjoy learning and developing new things.
+## 🚀 About Me
+I'm a software developer.I really enjoy learning and developing new things.
 
 <br>
 
